@@ -1,4 +1,4 @@
-# BUDGETY PROJECT
+# Budgety Project
 
 ## About
 Budgety is an application where you can keep track of all your income and your
